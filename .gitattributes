@@ -1,0 +1,2 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+public/models/fortuner.glb filter=lfs diff=lfs merge=lfs -text

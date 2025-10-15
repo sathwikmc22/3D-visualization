@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+.vscode/
+
+# build output
+dist/
+build/
+
+# logs
+*.log
+
+# misc
+.DS_Store
