@@ -1,33 +1,26 @@
-# Welcome to your Lovable project
+# 3D Visualization Project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/8fb39793-4739-45b1-b343-cd3eae33b3e8
+This is a 3D visualization project built with modern web technologies.  
 
-## How can I get the 3D model?
+**3D Model**: You can download the model from [Google Drive](https://drive.google.com/file/d/1JYarM2pUDmlgSQQ3W8h7kD4-QIrJrJ-H/view?usp=drive_link)  
 
-You can download the 3D model from Google Drive:
+**Project structure**:
 
-[Download the model](https://drive.google.com/file/d/1JYarM2pUDmlgSQQ3W8h7kD4-QIrJrJ-H/view?usp=drive_link)
- and Place the downloaded model in public\models
+- `src/` → Contains all React components, pages, hooks, and styles.  
+- `public/` → Static assets like models, images, and favicon.  
+- `package.json` → Project dependencies and scripts.  
+- `vite.config.ts` → Vite configuration.  
+- `tsconfig.json` → TypeScript configuration.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## How to set up and edit this code
 
-**Use Lovable**
+There are several ways to work with this project:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8fb39793-4739-45b1-b343-cd3eae33b3e8) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+### 1. Local development (using your preferred IDE)
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -67,14 +60,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8fb39793-4739-45b1-b343-cd3eae33b3e8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
