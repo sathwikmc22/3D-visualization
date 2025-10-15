@@ -4,6 +4,13 @@
 
 **URL**: https://lovable.dev/projects/8fb39793-4739-45b1-b343-cd3eae33b3e8
 
+## How can I get the 3D model?
+
+You can download the 3D model from Google Drive:
+
+[Download the model](https://drive.google.com/file/d/1JYarM2pUDmlgSQQ3W8h7kD4-QIrJrJ-H/view?usp=drive_link)
+
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
