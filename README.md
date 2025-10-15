@@ -9,7 +9,7 @@
 You can download the 3D model from Google Drive:
 
 [Download the model](https://drive.google.com/file/d/1JYarM2pUDmlgSQQ3W8h7kD4-QIrJrJ-H/view?usp=drive_link)
-
+ and Place the downloaded model in public\models
 
 ## How can I edit this code?
 
